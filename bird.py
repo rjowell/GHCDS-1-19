@@ -18,6 +18,9 @@ class Bird:
 
   def tweet(self):
     print("Tweet Tweet")
+
+  def eatAWorm(self):
+    print("Yummy worm")
   
   #COMMENTS
   #fly
